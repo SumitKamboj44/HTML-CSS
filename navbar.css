@@ -1,0 +1,26 @@
+.topnav {
+    display: flex;
+    
+    /* align-items: flex-end; */
+    height: 100px;
+    background-color: skyblue;
+    align-items: center;
+    gap: 80px;
+
+    position: fixed;
+    top: 0;
+    /* width: 100%; */
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.div1, .div2, .div3, .div4{
+    background-color: brown;
+    color: white;
+    padding: 8px;
+    align-items: center;
+    margin: 10px;
+}
+.content{
+    font-size: 1cm;
+}
